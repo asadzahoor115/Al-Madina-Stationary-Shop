@@ -1,6 +1,0 @@
-{
-  "name": "Al-Madina Photostat & Stationery",
-  "description": "Premium copying, stationery, next-gen tech accessories, mobile SIMs, and secure cash services in Jhang.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
