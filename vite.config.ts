@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/Al-Madina-Stationary-Shop/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
